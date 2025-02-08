@@ -1,0 +1,10 @@
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_StockViewer.resources
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danie\Documents\Redington_Daniel_U96037486_Project2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
